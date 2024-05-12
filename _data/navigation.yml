@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Education"
-    url: /education/
+    url: /Education/
 
   - title: "Skills"
-    url: /skills/
+    url: /Skills/
 
   - title: "Achievements and Certifications"
-    url: /ach/    
+    url: /Achievements and Certifications/ 
 
   
     
