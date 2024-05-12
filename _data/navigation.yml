@@ -6,8 +6,11 @@ main:
   - title: "Skills"
     url: /Skills/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Achievements and Certifications"
-    url: /Achievements and Certifications/ 
+    url: /Achievements-and-Certifications/ 
 
   
     
