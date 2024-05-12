@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Education"
 permalink: /Education/
 author_profile: true
 ---
 
 {% include base_path %}
 
+Education
 ======
 
 * B.S in Physics and Software, Sungkyunkwan University, _2021.02 - 2026.02_
