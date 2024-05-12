@@ -4,6 +4,7 @@ title: "Education"
 author_profile: true
 redirect_from: 
   - /Education/
+  - /Education.html
 ---
 
 Education
