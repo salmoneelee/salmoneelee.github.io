@@ -11,7 +11,7 @@ This website contains personal information about me. __DO NOT USE IT IN A BAD WA
 
 Introduction
 ----
-I'm a college junior at Sungkyunkwan Unviersity, double majoring in Physics and Computer Science and Engineering. My career aspiration is to specialize in particle physics while also utilizing software techniques. I aim to strike a balance where I can apply both my physics knowledge and programming skills effectively.
+I'm a college junior at Sungkyunkwan University, double majoring in Physics and Computer Science and Engineering. My career aspiration is to specialize in particle physics while also utilizing software techniques. I aim to strike a balance where I can apply both my physics knowledge and programming skills effectively.
 
 Research Interests
 ----
