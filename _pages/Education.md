@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Education
 ======
 
 * B.S in Physics and Software, Sungkyunkwan University, _2021.02 - 2026.02_
@@ -40,10 +39,10 @@ Research Experience
 
 Seminars
 ======
-#### 5th Multi-Messenger Astrophysics and Gravitation (MMAG) Journal Club, _2022.12.16_
+### 5th Multi-Messenger Astrophysics and Gravitation (MMAG) Journal Club, _2022.12.16_
 * Key seminar: “Testing Horava - Lifshitz gravity using thin accretion disk properties.”
 
-#### 4th Multi-Messenger Astrophysics and Gravitation (MMAG) Workshop, _2022.11.18_
+### 4th Multi-Messenger Astrophysics and Gravitation (MMAG) Workshop, _2022.11.18_
 * Key seminars:
     * “Status of GW instrumental R&D and collaboration activities in KASI.”
     * “Tests of parity symmetry of gravity with gravitational waves.”
