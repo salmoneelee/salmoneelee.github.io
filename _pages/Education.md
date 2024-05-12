@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Education"
-permalink: /Education/
+permalink: "https://salmoneelee.github.io/education/"
 author_profile: true
 ---
 
