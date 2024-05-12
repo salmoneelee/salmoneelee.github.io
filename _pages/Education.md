@@ -1,11 +1,11 @@
 ---
-permalink: /
+layout: archive
 title: "Education"
+permalink: /Education/
 author_profile: true
-redirect_from: 
-  - /Education/
-  - /Education.html
 ---
+
+{% include base_path %}
 
 Education
 ======
