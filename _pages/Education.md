@@ -6,9 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-
 * B.S in Physics and Software, Sungkyunkwan University, _2021.02 - 2026.02_
     * Overall GPA: 4.14/4.5
     * Major GPA: 4.24/4.5
