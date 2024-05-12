@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Lilo.png"
+  avatar           : "https://e7.pngegg.com/pngimages/105/509/png-clipart-disney-s-lilo-stitch-lilo-pelekai-nani-pelekai-cartoon-stitch.png"
   name             : "Yuna Lee"
   pronouns         : # example: "she/her"  
   bio              : "Last Updated: 2024-05-12"
