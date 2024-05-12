@@ -22,25 +22,25 @@ Academic
 * Presented on the principles of detector simulations to peers and professors from the ALICE and CMS collaborations. 
 
 ### Study Groups
-* __Classical Theory of Fields Study__	_2022.12 - 2023.02_
-* __Natural Science Global Study Club__	_2022.06 - 2022.07_
+* Classical Theory of Fields Study,	_2022.12 - 2023.02_
+* Natural Science Global Study Club, _2022.06 - 2022.07_
     * Solved and discussed GRE physics problems while practicing writing CV, SOP, and PHS
 
-### Data, Network, AI School _2022.07 - 2022.08_
+### Data, Network, AI School, _2022.07 - 2022.08_
 * Learned machine learning techniques; data preprocessing, k-NN, logistic regression, SGD Classifier, tree algorithms, unsupervised learning, deep learning, etc.
 
 ### Peer Tutoring
-* __SSIT English Tutoring Program__	_2022.08 - 2023.02_
-* Taught English speaking techniques to Samsung employees helping them to improve their communication skills and confidence in international business settings. 
+* __SSIT English Tutoring Program__, _2022.08 - 2023.02_
+    * Taught English speaking techniques to Samsung employees helping them to improve their communication skills and confidence in international business settings. 
 
-* __Sungkyun Tutoring Program__	_2021.03 - 2021.06_
-* Taught the concepts of “General Physics 1” to three peer students over the course of one semester, helping them to develop their intuition and problem-solving skills while preparing them for more advanced physics concepts. 
+* __Sungkyun Tutoring Program__, _2021.03 - 2021.06_
+    * Taught the concepts of “General Physics 1” to three peer students over the course of one semester, helping them to develop their intuition and problem-solving skills while preparing them for more advanced physics concepts. 
 
 Leadership
 ======
 
 ### Student Body Council
-* __Student Body President__ _2022.11 - 2023.11_
+* __Student Body President__, _2022.11 - 2023.11_
     * Managed around 130 department members while planning and organizing events and fostering collaborations with other departments to make a suitable environment where people can study and enjoy.
-* __Historian__	_2022.03 - 2022.11_
+* __Historian__, _2022.03 -2022.11_
     * Kept record of council activities while taking pictures and documenting all student council events.
